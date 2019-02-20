@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hello world! 
+Trying to use Git for the first time on my own!
